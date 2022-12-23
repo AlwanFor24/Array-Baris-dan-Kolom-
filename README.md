@@ -7,15 +7,16 @@
 
 # Deskripsi Umum
 <br>Menampilkan program baris dan kolom serta pertukaran baris menjadi kolom dan kolom menjadi baris.
+Algoritma program ini yaitu :
 Algoritma dari Source code ini yaitu :
 
-    User menginputkan berapa banyak baris pada array mulai dari range 0-20.
-    User menginputkan berapa banyak baris pada array mulai dari range 0-20.
-    User menginputkan satu persatu nilai array,dimulai dari baris 1 dan kolom 1.
-    Jika sudah,nilai dalam array tersebut di tampilkan sesuai aturan matriks.
-    Kemudian nilai divalidasi kembali apakah nilai tersebut habis dibagi 3,5 dan 7.
-    Apabila nilai tadi habis dibagi 3,5 dan 7, maka nilai tidak akan ditampilkan, apabila tidak habis. tampilkan kembali kepada user
+    1. User menginputkan berapa banyak baris pada array.
+    2. User menginputkan berapa banyak kolom dari baris pada array.
+    3. User menginputkan satu persatu nilai array,dimulai dari baris 1 dan kolom 1.
+    4. Jika sudah,Nilai dalam array tersebut di tampilkan sesuai aturan matriks.
+    5. Lalu ditampilkan juga nilai dalam array yang sudah dibalik,dari baris menjadi kolom dan sebaliknya
 
+   
 
 # Source Code
 #include 
