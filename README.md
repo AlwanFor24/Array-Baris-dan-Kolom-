@@ -60,4 +60,5 @@ garis();
 }
 
 # Hasil
+<img width="674" alt="yang soal no 1" src="https://user-images.githubusercontent.com/121307307/209391218-8207fe38-924b-4618-96a9-34ca1925e006.png">
 
