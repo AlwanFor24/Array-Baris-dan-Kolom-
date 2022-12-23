@@ -5,7 +5,7 @@
 <br>NIM		           	:	1227050017
 <br>Jurusan		    	:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
-# Array
+# Deskripsi Umum
 <br>Menampilkan program baris dan kolom serta pertukaran baris menjadi kolom dan kolom menjadi baris.
 
 # Source Code
@@ -59,6 +59,6 @@ garis();
 
 }
 
-# Hasil
+# Output
 <img width="674" alt="yang soal no 1" src="https://user-images.githubusercontent.com/121307307/209391218-8207fe38-924b-4618-96a9-34ca1925e006.png">
 
