@@ -5,10 +5,10 @@
 <br>NIM		           	:	1227050017
 <br>Jurusan		    	:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
-#Array
+# Array
 <br>Menampilkan program baris dan kolom serta pertukaran baris menjadi kolom dan kolom menjadi baris.
 
-#Source Code
+# Source Code
 #include 
 #include 
 using namespace std;
@@ -59,5 +59,5 @@ garis();
 
 }
 
-#Hasil
+# Hasil
 
